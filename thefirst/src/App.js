@@ -48,18 +48,3 @@ function ContactManager(props){
 
 export default ContactManager;
 
-  // static getDerivedStateFromProps(props,state){
-  //   return {color:props.color}
-  // }
-  // shouldComponentUpdate(){
-  //   return false
-  // }
-  // changeColor=()=>{
-  //   if (this.state.color == "Red"){
-  //     this.setState({color:"Blue"})
-  //   }
-  //   else{
-  //     this.setState({color:"Red"})
-  //   }
-   
-  // }
