@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#root {
+  border: 1px solid grey;
+  padding: 5em;
+  border-radius: 5px;
+  background-color: aqua;
+}
+h1,
+p {
+  font-family: Lato;
+  text-align: Center;
+}
+ul {
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgba(61, 120, 175, 0.411);
+  border-radius: 10px;
+}
+form {
+  margin: 10px;
+}
+input {
+  border-radius: 5px;
+  padding: 6px;
+}
+button {
+  padding: 6px;
+  margin-left: 5px;
+  background-color: forestgreen;
+  border-radius: 8px;
+}
